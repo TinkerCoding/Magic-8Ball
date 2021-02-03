@@ -1,1 +1,1 @@
-# Magic-8Ball
+# Magic Eight Ball JavaScript
